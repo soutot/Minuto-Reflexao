@@ -19,9 +19,6 @@ Clone & npm install
 ### Share ###
 ![Share](https://media.giphy.com/media/l4FGwWS3hTz3b3Io8/giphy.gif)
 
-### Persist Logged User / Change Message ###
-![Persist](https://media.giphy.com/media/l0Iy7NdKhScPSVtT2/giphy.gif)
-
 ### Menu ###
 ![Menu](https://media.giphy.com/media/xUPGcDdHnpV4m2PoKQ/giphy.gif)
 
@@ -30,6 +27,9 @@ Clone & npm install
 
 ### Change Preferences ###
 ![ChangePreferences](https://media.giphy.com/media/3o7bu5BZCdhWXcBnPi/giphy.gif)
+
+### Persist Logged User / Change Message ###
+![Persist](https://media.giphy.com/media/l0Iy7NdKhScPSVtT2/giphy.gif)
 
 ### Logout ###
 ![LogOut](https://media.giphy.com/media/xUPGcveWn8EP4L5Qty/giphy.gif)
