@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+  "plugins": [ "babel", "react", "react-native", "jsx-a11y" ],
+  "rules": {
+    "react/prop-types": 0,
+    "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }],
+    "react/prefer-stateless-function": 0,
+    "no-underscore-dangle": 0,
+    "arrow-body-style": 0
+  }
+}
